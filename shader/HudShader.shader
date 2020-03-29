@@ -31,7 +31,7 @@
         
         offset = mat * offset;
         
-        vec2 uv = offset.xy / tex_scale;
+        vec2 uv = (offset.xy / tex_scale) * vec2(1.0, -1.0);	// flip vertically
         
         ALBEDO = texture(texture_albedo, uv + vec2(0.5, 0.5)).xyz * intensity_factor;
         ALPHA = texture(texture_albedo, uv + vec2(0.5, 0.5)).a;
