@@ -1,5 +1,5 @@
 # Godot parallax shader
-Can be used for red dots, holo sights and fighter jet head-up displays (HUD).
+Can be used for red dots, holo sights and fighter jet heads up displays (HUD).
 
 ![](.gitlab/reflex.webm)
 
