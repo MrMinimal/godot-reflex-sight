@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3RYFSW)
+
 # Godot parallax shader
 Can be used for red dots, holo sights and fighter jet heads up displays (HUD).
 
